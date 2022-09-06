@@ -1,2 +1,2 @@
-# avr-programming
+# AVR Programming
 Studies in AVR Programming
